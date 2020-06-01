@@ -25,6 +25,14 @@ _Kyle Hubbard:_
 
 kyle.james.hubbard@gmail.com
 
+_Erich Richter:_
+
+erich.richter@gmail.com
+
+_Cody Fritz_
+
+clanalia55@gmail.com
+
 ## Technologies Used
 
 * HTML
