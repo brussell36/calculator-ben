@@ -23,6 +23,6 @@ function divide(number1, number2) {
       const number1 = parseInt($("#add1").val());
       const number2 = parseInt($("#add2").val());
       const result = add(number1, number2);
-      $add("#output").text(result);
+      $("#output").text(result);
     });
   });
