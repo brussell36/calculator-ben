@@ -25,4 +25,20 @@ function divide(number1, number2) {
       const result = add(number1, number2);
       $("#output").text(result);
     });
+
+    $("form#subtract").submit(function(event) {
+      event.preventDefault();
+      const number1 = parseInt($("#subtract1").val());
+      const number2 = parseInt($("#subtract2").val());
+      const result = subtract(number1, number2);
+      $("#output-sub").text(result);
+    })
+
+    $("form#multiply").submit(function(event) {
+      event.preventDefault();
+      const number1 = parseInt($("#multiply1").val());
+      const number2 = parseInt($("#multiply2").val());
+      const result = multiply(number1, number2);
+      $("#output-mult").text(result);
+    });
   });
