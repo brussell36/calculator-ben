@@ -2,7 +2,7 @@
 
 #### _Javascript practice, 6/1/2020_
 
-#### By _**Kyle Hubbard, Cody Fritz, and Erich Richter**_
+#### By _**Kyle Hubbard, Ben Russell**_
 
 ## Description
 
@@ -25,13 +25,9 @@ _Kyle Hubbard:_
 
 kyle.james.hubbard@gmail.com
 
-_Erich Richter:_
+_Ben Russell_
 
-erich.richter@gmail.com
-
-_Cody Fritz_
-
-clanalia55@gmail.com
+benjaminrussell36@gmail.com
 
 ## Technologies Used
 
